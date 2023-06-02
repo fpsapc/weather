@@ -1,10 +1,10 @@
 import './App.css';
-import UseReducer from './components/UseReducer';
+import UseEffect from './components/UseEffect';
 
 function App() {
   return (
     <div className="App">
-      <UseReducer />
+      <UseEffect />
     </div>
   );
 }

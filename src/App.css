@@ -28,3 +28,10 @@
   width: 16rem;
   text-align: center;
 }
+
+.header {
+  width: 100%;
+  background-color: aqua;
+  text-align: center;
+  padding: 14px;
+}

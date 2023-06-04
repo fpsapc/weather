@@ -1,10 +1,12 @@
 import './App.css';
-import UseEffect from './components/UseEffect';
+import Movies from './components/Movies';
 
 function App() {
   return (
     <div className="App">
-      <UseEffect />
+      <div className='main'>
+      <Movies />
+      </div>
     </div>
   );
 }

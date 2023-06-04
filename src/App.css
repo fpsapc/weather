@@ -8,3 +8,23 @@
   margin: auto;
   text-align: center;
 }
+
+.main {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 2rem;
+}
+
+.movieCard img {
+  width: 16rem;
+  height: 24rem;
+}
+
+.movieCard p {
+  font-weight: bold;
+  font-size: 2rem;
+  width: 16rem;
+  text-align: center;
+}
